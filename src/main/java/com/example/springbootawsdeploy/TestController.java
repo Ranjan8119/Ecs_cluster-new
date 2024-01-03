@@ -18,6 +18,6 @@ public class TestController {
     }
      @GetMapping("/thirdmessage")
     public String getthirdmessage() {
-        return "Third message from AWS Ecs";
+        return "This is third message from AWS Ecs";
     }
 }
