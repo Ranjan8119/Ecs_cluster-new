@@ -34,7 +34,7 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/springboot-aws-deploy.jar
+    - target/springboot-aws-deploy-service.jar
 
 
 
